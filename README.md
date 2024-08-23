@@ -3,4 +3,5 @@
 ## The win-loss ratio of each of them is also available.
 #
 # Technology used:
-## HTML, CSS
+## C++
+
